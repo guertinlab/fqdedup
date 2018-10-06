@@ -1,0 +1,10 @@
+[package]
+name = "fqdedup"
+version = "1.0.0"
+authors = ["Andre L. Martins <alm253@cornell.edu>"]
+
+[dependencies]
+docopt = "0.8"
+serde = "1.0"
+serde_derive = "1.0"
+patricia_tree = "0.1.1"
