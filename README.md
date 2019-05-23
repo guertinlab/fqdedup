@@ -19,7 +19,7 @@ cd fqdedup-1.0.0
 cargo build --release 
 ```
 
-After compilation, copy the fqdedup binary (fqdedup-1.0.0/target/release/ seqOutBias) to a folder in your PATH, for example /usr/local/bin.
+After compilation, copy the fqdedup binary (fqdedup-1.0.0/target/release/fqdedup) to a folder in your PATH, for example /usr/local/bin.
 
 ### Usage
 
